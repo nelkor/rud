@@ -1,0 +1,23 @@
+{
+  "name": "rud",
+  "version": "1.0.0",
+  "description": "russian date submission tool",
+  "main": "dist/index.common.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "date",
+    "ymd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelkor/rud.git"
+  },
+  "author": "Nelkor",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}

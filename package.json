@@ -1,6 +1,6 @@
 {
   "name": "rud",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "russian date submission tool",
   "main": "dist/index.common.js",
   "module": "dist/index.esm.js",

@@ -1,14 +1,14 @@
-declare function rudDigits(
+export declare function rudDigits(
     ymd: [Number, String],
     glue?: String,
 ): String;
 
-declare function rudString(
+export declare function rudString(
     ymd: [Number, String],
     writeYear?: Boolean,
 ): String;
 
-declare function rudInterval(
+export declare function rudInterval(
     d1: [Number, String],
     d2: [Number, String],
 ): String;
